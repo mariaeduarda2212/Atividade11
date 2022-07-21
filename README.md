@@ -12,10 +12,10 @@ Desta forma, devemos mudar a VLAN das duas de Nat para Modo Bridge realizando os
 
 Ainda, é necessário criar um slide respondendo as perguntas especificas feitas pelos instrutores e uma documentação explicando qual o processo para instalação do linux, bem como realizar o versionamento da atividade.
 
-Desenvolvimento
+##Desenvolvimento
 Para esse desenvolvimento, iremos usar virtualbox como um ambiente virtual usaremos a ISO do ORACLE LINUX.
 
-Tarefas
+##Tarefas
 Para essa aplicação serão necessárias as seguintes tarefas:
 
 [T-01] Subir uma segunda VM (seguindo as mesmas regras da atividade anterior);
@@ -38,9 +38,9 @@ Para essa aplicação serão necessárias as seguintes tarefas:
 
 [T-06] Fazer uma documentação explicando o processo de instalação do Linux;
 
+##Configuração de redes
 
-Configuração de redes
-Maquina Server
+#Maquina Server:
 [IP] 10.0.2.17(classe A);
 
 [Netmask] 255.255.255.0(/24);
@@ -51,7 +51,7 @@ Maquina Server
 
 [HOSTNAME] compass.atividade11server;
 
-Maquina Client
+#Maquina Client
 [IP] 10.0.2.17(classe A);
 
 [Netmask] 255.255.255.0(/24);
@@ -62,7 +62,7 @@ Maquina Client
 
 [HOSTNAME] compass.atividade11client;
 
-Entrega
+##Entrega
 Deverá ser desenvolvido a aplicação em questão e entregue através do Github e com a documentação do READ.ME.
 
 Segue-se um link mais detalhado dos comandos usados desse projeto:
