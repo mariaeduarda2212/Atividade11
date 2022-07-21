@@ -67,6 +67,8 @@ Deverá ser desenvolvido a aplicação em questão e entregue através do Github
 
 Segue-se um link mais detalhado dos comandos usados desse projeto:
 
-(add doc aqui)
+[Comandos Utilizados na Atividade.docx](https://github.com/mariaeduarda2212/atividade11/files/9162607/Comandos.Utilizados.na.Atividade.docx)
+
+[Apresentação da Atividade11.pptx](https://github.com/mariaeduarda2212/atividade11/files/9162613/Apresentacao.da.Atividade11.pptx)
 
 Deverá ser concluído até o dia 22/07/2022 14:30.
