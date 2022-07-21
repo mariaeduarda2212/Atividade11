@@ -71,4 +71,4 @@ Segue-se um link mais detalhado dos comandos usados desse projeto:
 
 [Apresentação da Atividade11.pptx](https://github.com/mariaeduarda2212/atividade11/files/9162613/Apresentacao.da.Atividade11.pptx)
 
-Deverá ser concluído até o dia 22/07/2022 14:30.
+Deverá ser concluído até o dia 22/07/2022 às 14:30.
