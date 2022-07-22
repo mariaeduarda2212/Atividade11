@@ -71,4 +71,8 @@ Segue-se um link mais detalhado dos comandos usados desse projeto:
 
 [Apresentação da Atividade11.pptx](https://github.com/mariaeduarda2212/atividade11/files/9162613/Apresentacao.da.Atividade11.pptx)
 
+[Documentação Linux.pdf](https://github.com/mariaeduarda2212/atividade11/files/9168843/Documentacao.Linux.pdf)
+
+Documentação Linux: https://site111550.nicepage.io/?version=f547af85-b573-4d6c-909f-2d5eafb2002b&uid=a1152040-3004-4a30-acd6-d035a2012360
+
 Deverá ser concluído até o dia 22/07/2022 às 14:30.
