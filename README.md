@@ -69,7 +69,7 @@ Segue-se um link mais detalhado dos comandos usados desse projeto:
 
 [Comandos Utilizados na Atividade.docx](https://github.com/mariaeduarda2212/atividade11/files/9162607/Comandos.Utilizados.na.Atividade.docx)
 
-[Apresentação da Atividade11.pptx](https://github.com/mariaeduarda2212/atividade11/files/9162613/Apresentacao.da.Atividade11.pptx)
+[Apresentação da Atividade11.pptx](https://github.com/mariaeduarda2212/atividade11/files/9169169/Apresentacao.da.Atividade11.pptx)
 
 [Documentação Linux.pdf](https://github.com/mariaeduarda2212/atividade11/files/9168843/Documentacao.Linux.pdf)
 
