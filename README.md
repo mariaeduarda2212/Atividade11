@@ -75,4 +75,6 @@ Segue-se um link mais detalhado dos comandos usados desse projeto:
 
 Documentação Linux: https://site111550.nicepage.io/?version=f547af85-b573-4d6c-909f-2d5eafb2002b&uid=a1152040-3004-4a30-acd6-d035a2012360
 
+Video de documentação: https://youtu.be/tMB2NdOU05s
+
 Deverá ser concluído até o dia 22/07/2022 às 14:30.
