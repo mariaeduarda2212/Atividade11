@@ -40,7 +40,7 @@ Para essa aplicação serão necessárias as seguintes tarefas:
 
 ## Configuração de redes
 
-# Maquina Server:
+## Maquina Server:
 [IP] 10.0.2.17(classe A);
 
 [Netmask] 255.255.255.0(/24);
@@ -51,7 +51,7 @@ Para essa aplicação serão necessárias as seguintes tarefas:
 
 [HOSTNAME] compass.atividade11server;
 
-# Maquina Client
+## Maquina Client
 [IP] 10.0.2.17(classe A);
 
 [Netmask] 255.255.255.0(/24);
